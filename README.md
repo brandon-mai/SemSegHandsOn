@@ -10,12 +10,12 @@ Please download and place it in the root directory of this repository (same leve
 
 Clone repository
 ```bash
-git clone
+git clone https://github.com/brandon-mai/SemSegHandsOn.git
 ```
 
 Change directory
 ```bash
-cd
+cd SemSegHandsOn
 ```
 
 Install dependencies (optional)
